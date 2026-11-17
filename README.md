@@ -1,60 +1,88 @@
-# JavaScript DSA Journey 🚀
+# 🚀 JavaScript DSA Journey
 
-Welcome to my JavaScript DSA Journey!
+Welcome to my **JavaScript DSA Journey!**
 
-This repository documents my progress in JavaScript problem-solving, logical thinking, and Data Structures & Algorithms (DSA).
+This repository is where I document my journey of learning JavaScript, strengthening my programming fundamentals, improving logical thinking, and solving Data Structures & Algorithms (DSA) problems.
 
-My goal is to improve my JavaScript fundamentals and develop strong problem-solving skills through consistent practice.
+My focus is on consistent practice, understanding problem-solving techniques, writing clean code, and improving my ability to solve technical interview questions.
 
-## 🎯 Challenges
+---
 
-### Challenge #01 – Smart Banking Transaction Validator
+## 🎯 Learning Objectives
 
-**Difficulty:** Hard
-
-**Concepts Practiced:**
-- Variables
-- Arithmetic Operators
-- Comparison Operators
-- Conditional Statements
-- Functions
-- Return Statements
-- Arrow Functions
-- Percentage Calculations
-
-**Problem Description:**
-
-Develop a smart banking transaction validator that checks account status, transaction amount, daily transaction limits, and available balance.
-
-It also calculates transaction fees based on transaction type and applies premium customer discounts.
-
-**Features:**
-- Transaction amount validation
-- Account status validation
-- Daily transaction limit validation
-- Available balance validation
-- Domestic and international transaction fees
-- Premium customer fee discounts
-- Total debit calculation
-- Remaining balance calculation
-
-**File:** `01-smart-banking-validator.js`
-
-## 🛠️ Technologies
-
-- JavaScript (ES6+)
-- Git
-- GitHub
-- Visual Studio Code
-
-## 📈 My Goal
-
-- Practice JavaScript consistently.
-- Improve logical thinking.
-- Solve DSA problems.
-- Build strong programming fundamentals.
+- Strengthen JavaScript fundamentals.
+- Improve logical and analytical thinking.
+- Develop problem-solving skills.
+- Understand Data Structures & Algorithms.
+- Practice writing clean and efficient code.
 - Prepare for technical interviews.
 
 ---
 
-**Learning, Practicing, and Improving Every Day.** 💻
+## 📚 Topics Covered
+
+### JavaScript Fundamentals
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrow Functions
+- Scope
+- Return Statements
+- Arrays
+- Objects
+- Strings
+
+### Data Structures & Algorithms
+- Problem Solving
+- Mathematical Problems
+- Number Manipulation
+- String Manipulation
+- Array Problems
+- Searching Algorithms
+- Sorting Algorithms
+- Recursion
+- Data Structures
+- Algorithmic Thinking
+
+*Topics will be added as I learn and practice them.*
+
+---
+
+## 💻 Coding Challenges
+
+A collection of JavaScript coding challenges organized by problem number and difficulty.
+
+| # | Challenge | Difficulty | Status |
+|---|---|---|---|
+| 01 | Smart Banking Transaction Validator | Hard | Completed |
+
+More challenges coming soon!
+
+---
+
+## 🛠️ Tools & Technologies
+
+- JavaScript (ES6+)
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+## 📈 My Progress
+
+I believe consistent practice is the key to becoming a better developer.
+
+This repository will continue to grow as I explore new concepts, solve challenging problems, and improve my programming skills.
+
+---
+
+## 🎯 Long-Term Goal
+
+To become a confident JavaScript developer with strong problem-solving abilities and a solid understanding of Data Structures & Algorithms.
+
+---
+
+**One problem at a time. One concept at a time. Always improving.** 🚀
